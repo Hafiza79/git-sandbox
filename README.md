@@ -1,5 +1,6 @@
 # git-sandbox
 Worry-free sandbox repository for learning.
+why so hard
 
 Cg Eriyah was here too
 
@@ -34,3 +35,5 @@ Hi! I'm here too..
 
 Learn something new
 happy birthday
+
+smk saujana indah cuba masuk
